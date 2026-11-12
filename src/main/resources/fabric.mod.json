@@ -3,13 +3,13 @@
 	"id": "durability_tooltip",
 	"version": "${version}",
 	"name": "Durability Tooltip",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Lightweight durability tooltip mod.",
 	"authors": [
 		"dxxi3d"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"issues": "https://github.com/dxxi3d/durability_tooltip/issues",
+		"sources": "https://github.com/dxxi3d/durability_tooltip"
 	},
 	"license": "MIT",
 	"icon": "assets/durability_tooltip/icon.png",
