@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "durability_tooltip",
+	"version": "${version}",
+	"name": "Durability Tooltip",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"dxxi3d"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/durability_tooltip/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"dxxi3d.durability_tooltip.client.DurabilityTooltipClient"
+		]
+	},
+	"mixins": [
+		{
+			"config": "durability_tooltip.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": ">=26.1",
+		"java": ">=25"
+	}
+}
