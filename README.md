@@ -5,7 +5,7 @@ Lightweight durability tooltip mod.
 * Works without F3+H.
 * Full localization.
 
-![Showcase](SHOWCASE.png)
+![Showcase](https://github.com/dxxi3d/durability_tooltip/raw/26.X/SHOWCASE.png)
 
 ## License
-This mod is licensed under **MIT**. See [License](LICENSE) for the full terms.
+This mod is licensed under **MIT**. See [License](https://github.com/dxxi3d/durability_tooltip/raw/26.X/LICENSE) for the full terms.
